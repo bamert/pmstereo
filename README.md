@@ -1,6 +1,6 @@
 # Patch match stereo implementation
 
-Implements the Patch Match stereo algorithm by Michael Bleyer, Christoph Rhemann and Carsten Rother presented in [PatchMatch Stereo - Stereo Matching with Slanted Support Windows](https://microsoft.com/en-us/research/wp-content/uploads/2011/01/PatchMatchStereo_BMVC2011_6MB.pdf). Implemented and optimized at ETH 2019 during the [How to Write Fast Numerical Code Lecture](https://acl.inf.ethz.ch/teaching/fastcode/2019/) by [Nik Bamert](github.com/bamert), Jordan Burklund and [Thomas Etterlin](github.com/tetterl).
+Implements the Patch Match stereo algorithm by Michael Bleyer, Christoph Rhemann and Carsten Rother presented in [PatchMatch Stereo - Stereo Matching with Slanted Support Windows](https://microsoft.com/en-us/research/wp-content/uploads/2011/01/PatchMatchStereo_BMVC2011_6MB.pdf). Implemented and optimized at ETH 2019 during the [How to Write Fast Numerical Code Lecture](https://acl.inf.ethz.ch/teaching/fastcode/2019/) by [Nik Bamert](https://github.com/bamert), Jordan Burklund and [Thomas Etterlin](https://github.com/tetterl).
 
 ## Abstract
 
